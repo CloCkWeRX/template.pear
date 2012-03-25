@@ -3,14 +3,14 @@
     http://pear.php.net/dtd/tasks-1.0.xsd
     http://pear.php.net/dtd/package-2.0
     http://pear.php.net/dtd/package-2.0.xsd">
- <name>phpDocumentor_Template_responsive</name>
+ <name>phpDocumentor_Template_pear</name>
  <channel>pear.phpdoc.org</channel>
- <summary>The responsive template for phpDocumentor</summary>
+ <summary>The pear template for phpDocumentor</summary>
  <description>
-      This is the &apos;Responsive&apos; look and feel for phpDocumentor.
+      This is the &apos;PEAR&apos; look and feel for phpDocumentor.
 
       This is a responsive template that is optimized to make the user&apos;s
-      experience paramount.
+      experience paramount, with a thin layer of PEAR icing.
 
       To improve performance you can add the following to your .htaccess:
 
